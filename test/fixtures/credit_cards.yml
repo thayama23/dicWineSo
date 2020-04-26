@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  payjp_costomerId: MyString
+  payjp_cardId: MyString
+  user: one
+
+two:
+  payjp_costomerId: MyString
+  payjp_cardId: MyString
+  user: two
