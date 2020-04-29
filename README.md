@@ -62,6 +62,7 @@ https://docs.google.com/document/d/e/2PACX-1vT96j6JrP8uKNGbRXSMGzVrqzorvfvmXSCpe
 ## 使用予定Gem
 - devise
 - rails-i18n
+- devise-i18n
 - carrierwave
 - minimagick
 - faker
@@ -69,7 +70,6 @@ https://docs.google.com/document/d/e/2PACX-1vT96j6JrP8uKNGbRXSMGzVrqzorvfvmXSCpe
 - payjp
 - ransack
 - font-awesome-sass
-- Sorcery
 - kaminari
 - kaminari-bootstrap
 - fog-aws
