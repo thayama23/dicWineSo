@@ -34,8 +34,7 @@
 - [ ] お気に入りページ
   - [ ] お気に入り指定ワインレビューの閲覧
   - [ ] お気に入り指定・解除
-- [ ] チャット機能
-  - [ ] ユーザー同士のチャット機能
+
   
 ## カタログ設計
 https://docs.google.com/spreadsheets/d/e/2PACX-1vQYY_fhi2NDMKUM94uBW9XdFZ3ij5v-bFGs5DlTrFCrPhuqlPpINVfpRcfGzwkgeSzWqPwXiBzvgiiK/pubhtml
