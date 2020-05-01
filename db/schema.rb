@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2020_04_27_034646) do
+ActiveRecord::Schema.define(version: 2020_05_01_012515) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -61,14 +61,6 @@ ActiveRecord::Schema.define(version: 2020_04_27_034646) do
     t.string "name"
     t.string "email"
     t.string "password_digest"
-    t.string "full_name"
-    t.string "full_name_furigana"
-    t.integer "age"
-    t.integer "zip_code"
-    t.string "address"
-    t.string "building_name"
-    t.integer "telephone"
-    t.boolean "ads", default: true
     t.boolean "admin", default: false, null: false
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
@@ -83,9 +75,6 @@ ActiveRecord::Schema.define(version: 2020_04_27_034646) do
     t.string "variety"
     t.integer "vintage"
     t.integer "taste"
-    t.integer "size"
-    t.integer "stock"
-    t.boolean "shipment"
     t.string "overview"
     t.integer "ranking"
     t.datetime "created_at", null: false
